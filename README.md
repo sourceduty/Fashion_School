@@ -11,6 +11,10 @@ Beyond design, Fashion School assists users in the business aspects of fashion, 
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Fashion Product](https://github.com/sourceduty/Fashion_Product)
+<br>
+[Sea Life Fashion](https://github.com/sourceduty/Sea_Life_Fashion)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
